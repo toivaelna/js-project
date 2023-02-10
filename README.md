@@ -1,2 +1,2 @@
 # JS-project
-using TailwindCSS
+Currency converter
